@@ -85,6 +85,10 @@ h1, h5, p {
     max-width: 600px;
 }
 
+p {
+    font-family:nunito;
+}
+
 img {
     width: 100%;
     max-width: 600px;
