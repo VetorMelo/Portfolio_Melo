@@ -179,3 +179,13 @@ button.next {
 
 
 /* Fim carrossel */
+
+footer {
+    background-color: #333; /* Fundo cinza escuro */
+    color: #f0f0f0; /* Cor gelo para o texto */
+    font-family: 'Nanito', sans-serif; /* Fonte Nanito */
+    font-style: italic;
+    padding: 6px;
+    text-align: center;
+    width: 100%;
+}
