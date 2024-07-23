@@ -38,3 +38,30 @@ function toggleMenu() {
 document.getElementById("scrollToTop").addEventListener("click", function () {
     window.scrollTo({ top: 0, behavior: "smooth" });
 });
+
+// Começo carrossel
+
+const prevButton = document.querySelector('.prev');
+const nextButton = document.querySelector('.next');
+const carouselInner = document.querySelector('.carousel-inner');
+const items = document.querySelectorAll('.carousel-item');
+
+let index = 0;
+
+function showItem(index) {
+    const offset = -index * 100;
+    carouselInner.style.transform = `translateX(${offset}%)`;
+}
+
+prevButton.addEventListener('click', () => {
+    index = (index > 0) ? index - 1 : items.length - 1;
+    showItem(index);
+});
+
+nextButton.addEventListener('click', () => {
+    index = (index < items.length - 1) ? index + 1 : 0;
+    showItem(index);
+});
+
+
+// Fim carrossel
