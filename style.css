@@ -170,37 +170,12 @@ button {
 }
 
 button.prev {
-    background: transparent; /* Botão transparente */
-    color: white;
-    padding: 10px 10px;
-    border: 2px solid;
-    border-image-slice: 1;
-    border-image-source: linear-gradient(deg, #333, #3b82f6); /* Gradiente na borda */
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background 0.3s ease, box-shadow 0.3s ease, border-image-source 0.3s ease;
+    left: 10px;
 }
 
 button.next {
-    right: 5px;
-    border-radius: 5px;
-    padding: 10px 10px;
-    border: 2px solid;
-    border-image-slice: 1;
-    border-image-source: linear-gradient(deg, #333, #3b82f6);
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background 0.3s ease, box-shadow 0.3s ease, border-image-source 0.3s ease;
-    background: transparent;
+    right: 10px;
 }
 
-button.prev:hover {
-    background: linear-gradient(45deg, #d1d1d1, #333); /* Gradiente no hover */
-    box-shadow: 0 0 15px #3b82f6, 0 0 25px #3b82f6, 0 0 35px #3b82f6; /* Efeito neon */
-}
 
-button.next:hover {
-    background: linear-gradient(45deg, #d1d1d1, #333); /* Gradiente no hover */
-    box-shadow: 0 0 15px #3b82f6, 0 0 25px #3b82f6, 0 0 35px #3b82f6; /* Efeito neon */
-}
 /* Fim carrossel */
