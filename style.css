@@ -131,7 +131,7 @@ img {
     margin: 20px;
     width: 90%;
     max-width: 600px;
-    border: solid #333 2px;
+    border: solid #333 1px;
     border-radius: 20px;
     background-color: #333;
     color: #ddd;
@@ -141,6 +141,7 @@ img {
 
 .desafio_aprender p {
     text-align: justify;
+    padding-inline-start: 1px;
 }
 
 .hidden {
@@ -227,6 +228,12 @@ button.next {
     color: #333;
     font-size: 18px;
     transition: color 0.3s;
+}
+
+.icon-link {
+    border: solid #333 1px;
+    border-radius: 7px;
+    padding-left: 6px;
 }
 
 .icon-link i {
