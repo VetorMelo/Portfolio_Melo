@@ -80,7 +80,7 @@ body {
 
 h1, h5, p {
     text-align: center;
-    margin: 10px;
+    margin: 20px;
     width: 90%;
     max-width: 600px;
 }
@@ -93,7 +93,7 @@ img {
     width: 100%;
     max-width: 600px;
     height: auto;
-    border-radius: 0px;
+    border-radius: 20px;
 }
 
 #coluna {
@@ -161,7 +161,7 @@ img {
 
 button {
     position: absolute;
-    top: 15%;
+    top: 35%;
     transform: translateY(-50%);
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
@@ -180,6 +180,39 @@ button.next {
 
 
 /* Fim carrossel */
+
+.icon-links {
+    margin-top: 20px;
+    margin-block-end: 20px;
+    display: flex;
+    gap: 15px; /* Espaçamento entre os ícones */
+}
+
+.icon-link {
+    display: flex;
+    
+    align-it
+align-items: center;
+    
+    
+text-decoration: none;
+    color: #333;
+    font-size: 18px;
+    
+    t
+transition: color 0.3s;
+}
+
+.icon-link i {
+    
+    mar
+margin-right: 8px;
+    font-size: 19px; /* Tamanho dos ícones */
+}
+
+.icon-link:hover {
+    color: #007BFF; /* Cor ao passar o mouse */
+}
 
 footer {
     background-color: #333; /* Fundo cinza escuro */
