@@ -80,24 +80,20 @@ body {
 
 h1, h5, p {
     text-align: center;
-    margin: 20px;
+    margin: 10px;
     width: 90%;
     max-width: 600px;
 }
 
 p {
     font-family:nunito;
-    background-color: rgb(24, 26, 32);
-    color: white;
-    padding: 5px;
-    border-radius: 10px;
 }
 
 img {
     width: 100%;
     max-width: 600px;
     height: auto;
-    border-radius: 30px;
+    border-radius: 0px;
 }
 
 #coluna {
@@ -145,9 +141,6 @@ img {
     overflow: hidden;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    background-color: rgb(24, 26, 32);
-    color: white;
-    
 }
 
 .carousel-inner {
@@ -168,7 +161,7 @@ img {
 
 button {
     position: absolute;
-    top: 35%;
+    top: 15%;
     transform: translateY(-50%);
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
@@ -188,7 +181,6 @@ button.next {
 
 /* Fim carrossel */
 
-
 footer {
     background-color: #333; /* Fundo cinza escuro */
     color: #f0f0f0; /* Cor gelo para o texto */
@@ -198,4 +190,3 @@ footer {
     text-align: center;
     width: 100%;
 }
-
