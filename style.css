@@ -189,24 +189,16 @@ button.next {
 }
 
 .icon-link {
-    display: flex;
-    
-    align-it
-align-items: center;
-    
-    
-text-decoration: none;
+    display: flex;   
+    align-items: center;   
+    text-decoration: none;
     color: #333;
     font-size: 18px;
-    
-    t
-transition: color 0.3s;
+    transition: color 0.3s;
 }
 
 .icon-link i {
-    
-    mar
-margin-right: 8px;
+    margin-right: 8px;
     font-size: 19px; /* Tamanho dos ícones */
 }
 
