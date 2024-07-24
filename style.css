@@ -87,6 +87,10 @@ h1, h5, p {
 
 p {
     font-family:nunito;
+    background-color: rgb(24, 26, 32);
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
 }
 
 img {
@@ -141,6 +145,9 @@ img {
     overflow: hidden;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: rgb(24, 26, 32);
+    color: white;
+    
 }
 
 .carousel-inner {
@@ -156,6 +163,7 @@ img {
 .carousel-item img {
     width: 100%;
     display: block;
+    border-radius: 0px;
 }
 
 button {
