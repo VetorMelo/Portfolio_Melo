@@ -97,10 +97,21 @@ img {
 }
 
 #coluna {
-    margin-top: 40px;
+    margin-top: 30px;
     font-size: 14px;
 }
 
+#coluna2 {
+    text-align: right;
+    margin-top: 30px;
+    font-family: nunito;
+}
+
+#experiencias {
+    text-align: left;
+    margin-top: 50px;
+    font-family: nunito;
+}
 .desafio_aprender {
     text-align: center;
     margin: 20px;
