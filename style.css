@@ -115,7 +115,7 @@ img {
 #borda {
     border:  1px solid #333333a5;
     margin: 10px 0; /* Espaçamento acima e abaixo da linha */
-    width: 20%; /* Largura da linha */
+    width: 30%; /* Largura da linha */
     margin-left: auto; 
     margin-right: auto; /* Centraliza a linha */
     margin-block-end: 50px;
@@ -128,7 +128,7 @@ img {
 #experiencias {
     text-align: left;
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 20px;
     font-family: nunito;
     background-color: #cacaca91;
     border-radius: 20px 1px 20px;
