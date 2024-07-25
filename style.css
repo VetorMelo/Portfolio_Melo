@@ -280,6 +280,19 @@ button.next {
     border-radius: 1px 1px 20px 20px;
 }
 
+#acesse_projeto {
+    font-size: 12px;
+    font-family: nunito;
+    font-style: italic;
+}
+
+#acesse_projeto:hover {
+    font-family: nunito;
+    background-color: #333;
+    color: #ffffff;
+    border-radius: 20px 20px 1px 1px;
+}
+
 footer {
     background-color: #333; /* Fundo cinza escuro */
     color: #f0f0f0; /* Cor gelo para o texto */
