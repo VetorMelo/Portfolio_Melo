@@ -252,6 +252,34 @@ button.next {
     color: #007BFF; /* Cor ao passar o mouse */
 }
 
+#recomendacao {
+    text-align: center;
+    margin: 20px;
+    width: 90%;
+    max-width: 600px;
+    border: solid #333333 1px;
+    border-radius: 20px 1px 20px;
+    background-color: #333333e3;
+    color: #ffffff;
+    font-family: nunito;
+}
+
+#recomendacao {
+    margin-top: 70px;
+}
+
+.acesse {
+    font-size: 12px;
+    font-family: nunito;
+    font-style: italic;
+}
+
+.acesse:hover {
+    background-color: #333;
+    color: #ffffff;
+    border-radius: 1px 1px 20px 20px;
+}
+
 footer {
     background-color: #333; /* Fundo cinza escuro */
     color: #f0f0f0; /* Cor gelo para o texto */
