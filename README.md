@@ -17,3 +17,10 @@ O maior desafio foi garantir a responsividade do carrossel, especialmente ao ada
 Para mais detalhes, visite meu Portfólio.
 
 ![image](https://github.com/user-attachments/assets/5ac8cdad-fff8-4e7a-a1d6-908fb412d8a3)
+
+## 📱 Responsividade:
+
+<p>Como dito anteriormente, esse tema sempre foi um desafio para mim! Estou muito feliz pela progresso que tive.</p>
+
+![image](https://github.com/user-attachments/assets/e9b82420-7c8c-46a4-b8ca-09b53c901806)
+
