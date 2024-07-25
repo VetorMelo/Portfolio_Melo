@@ -15,3 +15,5 @@
 O maior desafio foi garantir a responsividade do carrossel, especialmente ao adaptar botões e elementos para diferentes tamanhos de tela. Utilizar JavaScript para manipular e ajustar dinamicamente os elementos foi uma parte crucial do processo.
 
 Para mais detalhes, visite meu Portfólio.
+
+![image](https://github.com/user-attachments/assets/5ac8cdad-fff8-4e7a-a1d6-908fb412d8a3)
