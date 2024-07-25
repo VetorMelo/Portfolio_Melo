@@ -300,6 +300,10 @@ button.next {
     text-align: center;
 }
 
+#title_projeto {
+    text-align: center;
+}
+
 footer {
     background-color: #333; /* Fundo cinza escuro */
     color: #f0f0f0; /* Cor gelo para o texto */
