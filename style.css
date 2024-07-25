@@ -293,6 +293,13 @@ button.next {
     border-radius: 20px 20px 1px 1px;
 }
 
+#ler_mais {
+    font-size: 12px;
+    font-family: nunito;
+    font-style: italic;
+    text-align: center;
+}
+
 footer {
     background-color: #333; /* Fundo cinza escuro */
     color: #f0f0f0; /* Cor gelo para o texto */
