@@ -1,12 +1,17 @@
-<h1 align="center">Meu Portfólio</h1>
+<h1 align="center">Meu Portfólio 👨🏽‍💻</h1>
 
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-Projeto: Portfolio
+## 🚀 Tecnologias Usadas:
 
-Tecnologias Utilizadas
-HTML & CSS: Estruturação e estilização do layout.
-JavaScript: Funcionalidades interativas e ajustes de responsividade.
-Desafio Principal
-O maior desafio foi garantir a responsividade do carrossel, especialmente ao adaptar botões e elementos para diferentes tamanhos de tela. Utilizar JavaScript para manipular o DOM e ajustar dinamicamente os elementos foi uma parte crucial do processo.
+<ul>HTML & CSS: Estruturação e estilização do layout.</ul>
+<ul>JavaScript: Funcionalidades interativas e ajustes de responsividade.</ul>
+<ul>Bootstrap: Utilizar exemplares de códigos.</ul>
+<br>
+
+O maior desafio foi garantir a responsividade do carrossel, especialmente ao adaptar botões e elementos para diferentes tamanhos de tela. Utilizar JavaScript para manipular e ajustar dinamicamente os elementos foi uma parte crucial do processo.
 
 Para mais detalhes, visite meu Portfólio.
